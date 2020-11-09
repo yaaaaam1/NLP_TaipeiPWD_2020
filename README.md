@@ -1,5 +1,6 @@
 # Law Recommendation System 
-We used two 
+We create a law recommendation system using simply TF-IDF and TF-IDF Weighted Word2vec to improve the procurement efficiency of Public Works Department in Taipei City Government.
+
 ## Version1: Using TF-IDF
 **STEP**
 1. Add new text(do some preprocessing) in tf-idf matrix
