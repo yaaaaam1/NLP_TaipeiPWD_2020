@@ -17,3 +17,12 @@ We create a law recommendation system using simply TF-IDF and TF-IDF Weighted Wo
 5. Combine w2v with TF-IDF
 6. Find top 10 similar text using Cosine Similarity
 7. Show top 10 similar texts and the law corresponding to those texts
+
+## Version3: Using TF-IDF Weighted Words Embedding with Pretrained Words Embedding
+**STEP**
+1. Create TF-IDF
+2. Convert a tf-idf dictionary with word as key, idf as a value
+3. Get TF-IDF features
+4. Combine pretrained words embedding with TF-IDF
+5. Calculate Cosine Similarity
+6. Recommend Law
