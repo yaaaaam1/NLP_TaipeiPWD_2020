@@ -1,4 +1,9 @@
-# Law Recommendation System 
+# Content-based Recommender System for Taipei Public Works Department
+## Problem Statement
+Taipei PWD(Public Works Department) asked auditors to submit illegal cases during their audit. The problem is, auditors often submit illegal cases with wrong corresponding law, so the staff in PWD need to spend lots of time check their files and adjust wrong laws.
+Therefore, they asked us to design a law recommender system for auditors. When auditors are entering illegal cases, the system will automatedly recommend appropriate law for them.
+
+## How to Do
 We create a law recommendation system using simply TF-IDF and TF-IDF Weighted Word2vec to improve the procurement efficiency of Public Works Department in Taipei City Government.
 
 ## Version1: Using TF-IDF
@@ -26,3 +31,6 @@ We create a law recommendation system using simply TF-IDF and TF-IDF Weighted Wo
 4. Combine pretrained words embedding with TF-IDF
 5. Calculate Cosine Similarity
 6. Recommend Law
+
+
+Finally, we use the third model for its efficiency. If you want to see more information, you can check this link for the complete task.
