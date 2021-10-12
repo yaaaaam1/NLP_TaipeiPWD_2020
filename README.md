@@ -1,4 +1,6 @@
 # Content-based Recommender System for Taipei Public Works Department
+Public Link for the prject: http://d4sg.org/smart-audit/
+
 ## Problem Statement
 Taipei PWD(Public Works Department) asked auditors to submit illegal cases during their audit. The problem is, auditors often submit illegal cases with wrong corresponding law, so the staff in PWD need to spend lots of time check their files and adjust wrong laws.
 Therefore, they asked us to design a law recommender system for auditors. When auditors are entering illegal cases, the system will automatedly recommend appropriate law for them.
